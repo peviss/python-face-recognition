@@ -1,7 +1,7 @@
 ## Python OpenCV simple face recognition
 
 #### Dependencies
-- Pyhon 3.x
+- Python 3.x
 - OpenCV 2.0
 
   ```
