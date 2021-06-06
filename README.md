@@ -1,5 +1,5 @@
 ## Python OpenCV simple face recognition
-
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=peviss.python-face-recognition)
 #### Dependencies
 - Python 3.x
 - OpenCV 2.0
