@@ -36,9 +36,6 @@ def face_detection():
     # Webcam video
     video = cv2.VideoCapture(0) 
 
-    #Surveillance Camera
-    #video = cv2.VideoCapture('rtsp://192.168.1.10:554/user=admin&password=tlJwpbo6&channel=1&stream=0.dp?')
-
     while True: 
         (_, im) = video.read() 
         gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY) 
